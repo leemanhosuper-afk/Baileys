@@ -61,4 +61,5 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-Thus, the maintainers of the project can't be held liable for any potential misuse of this project.
+Thus, the maintainers of the project can't be held liable for any potential misuse of this project.git clone https://github.com/USERNAME/Baileys.git
+cd Baileys
